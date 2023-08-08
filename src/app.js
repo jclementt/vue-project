@@ -11,7 +11,7 @@ const MyNameApp = {
 
             e.preventDefault();
 
-            console.log(this.input_name);
+            
 
             this.name = this.input_name;
         }
